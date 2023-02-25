@@ -22,7 +22,6 @@ on:
           options:
             - firmware
             - config
-            
       ssh:
         description: 'SSH 连接至 Actions'
         required: true
