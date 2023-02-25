@@ -16,7 +16,7 @@ on:
     inputs:
     
       output:
-          description:'选择编译固件还是生成配置文件'
+          description: '选择编译固件还是生成配置文件'
           required: true
           type: choice
           default: 'firmware'
